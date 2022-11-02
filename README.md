@@ -63,5 +63,5 @@ var splitField: some View {
 ### DEMO
 
 <p align=center>
-    <img src="img/tap-counter.gif" width=50% >
+    <img src="img/tap-counter.gif" width=30% >
 </p>
